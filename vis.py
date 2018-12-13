@@ -1,0 +1,2 @@
+s='vishalrknagar'
+print "vishalrknagar"
